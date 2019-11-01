@@ -7,7 +7,7 @@ class Markdown extends Component {
     super(props);
     this.state = {
       html: ''
-    }:
+    };
 
     this.updateMarkdown  = this.updateMarkdown.bind(this);
   }
